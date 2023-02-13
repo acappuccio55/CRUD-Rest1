@@ -1,2 +1,4 @@
-package com.agus.rest.Model;public class TaskDTO {
+package com.agus.rest.Model;
+
+public class TaskDTO {
 }

@@ -14,8 +14,8 @@ public class TaskService {
     @Autowired
     private TodoRepository todoRepository;
 
-    public String holaMundo(){
-        return "Hola Mundo!";
+    public String home(){
+        return "Welcome to my webservice!";
     }
 
     public List<Task> getTasks(){

@@ -1,0 +1,6 @@
+com\agus\rest\RestfullApiApplication.class
+com\agus\rest\Model\Task.class
+com\agus\rest\Model\TaskDTO.class
+com\agus\rest\Service\TaskService.class
+com\agus\rest\Repository\TodoRepository.class
+com\agus\rest\Controller\TodoController.class

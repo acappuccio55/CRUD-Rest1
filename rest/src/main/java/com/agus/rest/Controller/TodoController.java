@@ -14,7 +14,7 @@ public class TodoController {
 
     @GetMapping(value = "/")
     public String holaMundo(){
-        return "Hola Mundo!";
+        return taskService.home();
     }
 
     @GetMapping(value = "/tasks")
